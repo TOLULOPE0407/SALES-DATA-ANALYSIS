@@ -1,11 +1,15 @@
-# SALES-DATA-ANALYSIS
+## PROJECT TOPIC: SALES-DATA-ANALYSIS
+
+### Project Overview
+
 
 ### TOOLS USED
 -MICROSOFT EXCEL[Download Here](https://www.microsoft.com)
 - For Data Cleaning
 - For Data Analysis
 - For Data Visualisation on pivot Table and Dashboard.
- #### SQL
+  
+ ### SQL
  ```
  
 select*from[dbo].[capstone 1]
