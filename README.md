@@ -10,9 +10,8 @@
 - For Data Visualisation on pivot Table and Dashboard.
   
  ### SQL
- ```
- 
-select*from[dbo].[capstone 1]
+ ```SQL
+Select*from[dbo].[capstone 1]
 
  -----Total sales for each product----
  select sum(Quantity)as Total_sales_by_Quantity,product from[dbo].[capstone 1]  
