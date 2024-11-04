@@ -1,1 +1,6 @@
 # SALES-DATA-ANALYSIS
+
+### TOOLS USED
+-EXCEL For Data Cleaning and summary
+
+### DATA VISUALISATION
