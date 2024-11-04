@@ -1,6 +1,7 @@
 ## PROJECT TOPIC: SALES-DATA-ANALYSIS
 ---
 ### Project Overview
+This project  is a comprehensive analysis of Sales Data to identify trends,patterns and oppourtunities for profit maximization,growth ,enabling data drivrn decision making and improved sale performance
 
 
 ### TOOLS USED
