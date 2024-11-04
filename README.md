@@ -74,15 +74,23 @@ where product not in (select product from[dbo].[capstone 1]
 where orderdate>=dateadd(quarter,-1,getdate()))
 ```
 
-
-
-
-  
-
-
-
- 
-
-
-
 ### DATA VISUALISATION
+
+![Sales Data worksheet](https://github.com/user-attachments/assets/505f24e6-bda4-45bf-afdb-c96c32a346da)
+
+
+
+
+![Sales data pivot 1](https://github.com/user-attachments/assets/da797fc8-298b-4fcf-a7a2-c4d3df142e64)
+
+
+
+
+
+![Sales pivot2](https://github.com/user-attachments/assets/fd4fec96-ca10-4d9a-b174-d1399ce2667a)
+
+
+
+
+![Sales Data Dashboard](https://github.com/user-attachments/assets/b0c7a855-fb62-4cab-af54-acc2e5ee6852)
+
