@@ -156,7 +156,7 @@ where orderdate>=dateadd(quarter,-1,getdate()))
 - For all product the Total quantity sold is 345,000 Southern Region is the top performance region as it holds 35% of the total quantity of product sold by selling 122500 units of good
 - Eastern Region holds 30% of the Total Quantity  sold with a Total sales quantity of 102500 
 - Northern Region holds  18% of the Total quantity sold by selling 62500 0f goods
-- Western Region is least performing Region with 17% total quantity sold by selling 52500 units
+- Western Region is least performing Region with 17% total quantity sold by selling 52500 units,Check dashboard 2 for visuals
 - 
 - 
 
