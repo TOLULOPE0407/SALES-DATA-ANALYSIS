@@ -142,7 +142,7 @@ where orderdate>=dateadd(quarter,-1,getdate()))
 
 
 
-![Sales  Data visualisation](https://github.com/user-attachments/assets/411720d1-0a2d-4223-898b-4c47fa3c458e)
+
 
 
 
