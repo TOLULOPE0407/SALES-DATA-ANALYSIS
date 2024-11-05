@@ -126,22 +126,16 @@ where orderdate>=dateadd(quarter,-1,getdate()))
 
 
 
-
-
-
-
-
-
-
-
 ![dashboard 2](https://github.com/user-attachments/assets/3f383d7c-1b4f-4f21-a0a0-77bf6c4d1dbf)
 
 
 
+![sales report new1](https://github.com/user-attachments/assets/88def056-2316-4148-a60b-f46eb82bc4a1)
 
 
 
 
+![Sales Report new2](https://github.com/user-attachments/assets/7954dae7-4e6e-42c4-94c3-5bf72fe2dee5)
 
 
 
