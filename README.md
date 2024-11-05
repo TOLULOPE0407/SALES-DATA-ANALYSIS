@@ -1,14 +1,17 @@
 ## PROJECT TOPIC: SALES-DATA-ANALYSIS
 ---
 ### Project Overview
-This project  is a comprehensive analysis of Sales Data to identify trends,patterns and oppourtunities for profit maximization,growth ,enabling data drivren decision making and improved sale performance. The major purpose of this analysis is to enehance performence through Data Driven Insights. Insights to uncover in this project include;top selling products. Performance per region,monthly sales trends etc
+This project  is a comprehensive analysis of Sales Data to identify trends,patterns and oppourtunities for profit maximization,growth ,enabling data driven decision making and improved sale performance. The major purpose of this analysis is to enehance performence through Data Driven Insights. Insights to uncover in this project include;top selling products. Performance per region,monthly sales trends etc
 
 
-### TOOLS USED
--MICROSOFT EXCEL[Download Here](https://www.microsoft.com)
+### Tools Used
+
+- MICROSOFT EXCEL[Download Here](https://www.microsoft.com)
 - For Data Cleaning
 - For Data Analysis
 - For Data Visualisation on pivot Table and Dashboard.
+- Structured Query language
+- Power BI 
   
  ### SQL
  ```SQL
@@ -87,9 +90,9 @@ where orderdate>=dateadd(quarter,-1,getdate()))
 
 
 
-### Insights
 
--Top Selling product is HAT
+
+
 ![Sales data pivot 1](https://github.com/user-attachments/assets/da797fc8-298b-4fcf-a7a2-c4d3df142e64)
 
 
@@ -113,7 +116,6 @@ where orderdate>=dateadd(quarter,-1,getdate()))
 
 
 
-
 ![Sales Data Dashboard](https://github.com/user-attachments/assets/b0c7a855-fb62-4cab-af54-acc2e5ee6852)
 
 
@@ -126,5 +128,21 @@ where orderdate>=dateadd(quarter,-1,getdate()))
 
 ![Sales  Data visualisation](https://github.com/user-attachments/assets/411720d1-0a2d-4223-898b-4c47fa3c458e)
 
+
+
+
+
+
+
+
+
+
+
+### INSIGHTS
+
+-The top selling product is Hat
+- Southern Region is the top performance region as it holds 35% of the total quantity of product sold by selling 122500 units of good
+- The Eastern Region holds 30% of the Total Quantity  sold 
+- 
 
 
