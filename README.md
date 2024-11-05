@@ -1,7 +1,7 @@
 ## PROJECT TOPIC: SALES-DATA-ANALYSIS
 ---
 ### Project Overview
-This project  is a comprehensive analysis of Sales Data to identify trends,patterns and oppourtunities for profit maximization,growth ,enabling data drivrn decision making and improved sale performance
+This project  is a comprehensive analysis of Sales Data to identify trends,patterns and oppourtunities for profit maximization,growth ,enabling data drivren decision making and improved sale performance. The major purpose of this analysis is to enehance performence through Data Driven Insights. Insights to uncover in this project include;top selling products. Performance per region,monthly sales trends etc
 
 
 ### TOOLS USED
@@ -87,7 +87,9 @@ where orderdate>=dateadd(quarter,-1,getdate()))
 
 
 
+### Insights
 
+-Top Selling product is HAT
 ![Sales data pivot 1](https://github.com/user-attachments/assets/da797fc8-298b-4fcf-a7a2-c4d3df142e64)
 
 
