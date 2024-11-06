@@ -10,6 +10,10 @@
 
 [Data Visualisation Power BI](#data-visualisation-power-bi)
 
+[Insights](#insights) 
+
+[Recommendations](#recommedations)
+
 ### Project Overview
 This project  is a comprehensive analysis of Sales Data to identify trends,patterns and oppourtunities for profit maximization,growth ,enabling data driven decision making and improved sale performance. The major purpose of this analysis is to enehance performence through Data Driven Insights. Insights to uncover in this project include;top selling products. Performance per region,monthly sales trends etc
 
