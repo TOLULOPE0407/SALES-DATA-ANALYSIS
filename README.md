@@ -15,11 +15,12 @@
 [Recommendations](#recommedations)
 
 ### Project Overview
+---
 This project  is a comprehensive analysis of Sales Data to identify trends,patterns and oppourtunities for profit maximization,growth ,enabling data driven decision making and improved sale performance. The major purpose of this analysis is to enehance performence through Data Driven Insights. Insights to uncover in this project include;top selling products. Performance per region,monthly sales trends etc
 
 
 ### Tools Used
-
+---
 - Microsoft Excel[Download Here](https://www.microsoft.com)
 - For Data Cleaning
 - For Data Analysis
@@ -97,7 +98,7 @@ where orderdate>=dateadd(quarter,-1,getdate()))
 ```
 
 ### Data Visualisation Excel
-
+---
 ![Sales Data worksheet](https://github.com/user-attachments/assets/505f24e6-bda4-45bf-afdb-c96c32a346da)
 
 
@@ -122,7 +123,7 @@ where orderdate>=dateadd(quarter,-1,getdate()))
 
 
 ### Data Visualisation Power BI
-
+---
 ![sales report new1](https://github.com/user-attachments/assets/88def056-2316-4148-a60b-f46eb82bc4a1)
 
 
@@ -141,8 +142,8 @@ where orderdate>=dateadd(quarter,-1,getdate()))
 
 
 
-### INSIGHTS
-
+### Insights
+---
 -The top selling product is Hat
 -Regional Sales overview:
 -For all product the Total quantity sold is 345,000 Southern Region is the top performance region as it holds 35% of the total quantity of product sold by selling 122500 units of good
