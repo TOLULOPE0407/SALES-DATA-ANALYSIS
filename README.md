@@ -8,7 +8,7 @@
 
 [Data Visualisation Excel](#data-visualisation-excel)
 
-
+[Data Visualisation Power BI](#data-visualisation-power-bi)
 
 ### Project Overview
 This project  is a comprehensive analysis of Sales Data to identify trends,patterns and oppourtunities for profit maximization,growth ,enabling data driven decision making and improved sale performance. The major purpose of this analysis is to enehance performence through Data Driven Insights. Insights to uncover in this project include;top selling products. Performance per region,monthly sales trends etc
@@ -117,7 +117,7 @@ where orderdate>=dateadd(quarter,-1,getdate()))
 ![dashboard 2](https://github.com/user-attachments/assets/3f383d7c-1b4f-4f21-a0a0-77bf6c4d1dbf)
 
 
-### Data Visualisation(power Bi)
+### Data Visualisation Power BI
 
 ![sales report new1](https://github.com/user-attachments/assets/88def056-2316-4148-a60b-f46eb82bc4a1)
 
