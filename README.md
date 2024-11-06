@@ -1,5 +1,15 @@
-## PROJECT TOPIC: SALES-DATA-ANALYSIS
+## PROJECT TOPIC: SALES -DATA-ANALYSIS
 ---
+[Project Overview](#project-overview)
+
+[Tools Used](#tools-used)
+
+[Structured Query Language](#structured-query-language)
+
+[Data Visualisation Excel](#data-visualisation-excel)
+
+
+
 ### Project Overview
 This project  is a comprehensive analysis of Sales Data to identify trends,patterns and oppourtunities for profit maximization,growth ,enabling data driven decision making and improved sale performance. The major purpose of this analysis is to enehance performence through Data Driven Insights. Insights to uncover in this project include;top selling products. Performance per region,monthly sales trends etc
 
@@ -11,9 +21,9 @@ This project  is a comprehensive analysis of Sales Data to identify trends,patte
 - For Data Analysis
 - For Data Visualisation on pivot Table and Dashboard.
 - Structured Query language
-- Power BI 
+- Power Business intelligence for data summary and visualisation
   
- ### SQL
+ ### Structured Query Language
  ```SQL
 Select*from[dbo].[capstone 1]
 
@@ -82,16 +92,9 @@ where product not in (select product from[dbo].[capstone 1]
 where orderdate>=dateadd(quarter,-1,getdate()))
 ```
 
-### DATA VISUALISATION
+### Data Visualisation Excel
 
 ![Sales Data worksheet](https://github.com/user-attachments/assets/505f24e6-bda4-45bf-afdb-c96c32a346da)
-
-
-
-
-
-
-
 
 
 
@@ -103,20 +106,7 @@ where orderdate>=dateadd(quarter,-1,getdate()))
 
 
 
-
-
-
-
-
-
-
-
 ![Sales pivot2](https://github.com/user-attachments/assets/fd4fec96-ca10-4d9a-b174-d1399ce2667a)
-
-
-
-
-
 
 
 
@@ -124,11 +114,10 @@ where orderdate>=dateadd(quarter,-1,getdate()))
 
 
 
-
-
 ![dashboard 2](https://github.com/user-attachments/assets/3f383d7c-1b4f-4f21-a0a0-77bf6c4d1dbf)
 
 
+### Data Visualisation(power Bi)
 
 ![sales report new1](https://github.com/user-attachments/assets/88def056-2316-4148-a60b-f46eb82bc4a1)
 
